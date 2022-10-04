@@ -10,7 +10,40 @@ header{
   background-color: #F55A5A;
   color: #fff;
   height: 55px;
+  margin-bottom: 40px;
 }
 .icon{
   font-size: 1.2em;
+}
+.card{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  
+}
+.content{
+  
+  margin: 30px 0;
+}
+img{
+  width: 200px; 
+  height: auto;
+  margin-right: 20px;
+}
+
+.loc{
+  color: #F55A5A;
+}
+a{
+  color: #918E9B;
+}
+.date{
+  font-weight: bold;
+}
+.discription{
+  font-size: 0.9em;
+}
+span{
+  letter-spacing: 2px;
+  margin: 0 8px;
 }
