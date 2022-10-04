@@ -1,8 +1,9 @@
-import {TbWorld} from 'react-icons/tb';
+import {BiWorld} from 'react-icons/bi';
 export default function Header (){
     return(
-        <div>
-            <TbWorld />
-        </div>
+        <header>
+            <BiWorld className='icon'/>
+            <p>my travel journal</p>
+        </header>
     )
 }
